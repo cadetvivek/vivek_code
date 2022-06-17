@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>up election 2022 result</title>
+</head>
+<body>
+<style type="text/css">
+h1{
+	color:black;
+	background-color:red;
+	padding:10px
+
+}
+p{
+	color:blue;
+	background-color:gold;
+	padding:10px;
+}
+table{
+	color:red;
+	background-color:blue;
+	padding:10px;
+}
+P2{
+	color:red;
+	background-color:skyblue;
+	padding:10px;
+}
+</style>
+<h1><b><i><mark>up election 2022 result today my self</i></b></h1>
+<p>wellcone to up cm of shree yogi aditya nath ji at 2022 election , i realy wellcom you</p>
+<img src="power.jpg" width="1000" height="300"><br><br>
+<img src="full.jpg" width="300" height="300"><hr><hr><hr>
+<img src="download.png" width="150" height="150">
+<big><a href="https://www.google.com/search?q=up+live+election+result&oq=up+live+&aqs=chrome.2.69i57j0i131i433i512j0i20i131i263i433i512l2j0i131i433i512l4j0i131i433j0i131i433i457.4962j0j15&sourceid=chrome&ie=UTF-8">today election live result </a><big><br>
+	<a href="http://upcmo.up.nic.in/">more information of up goverments</a><hr><hr><hr>
+	<table border="">
+		<tr><th>BJP</th><th>SP</th><th>INC</th><th>OTHER</th></tr></tr>
+		<tr><td>247</td><td>123</td><td>1</td><td>00</td></tr>
+
+		<p2>AND YOGI JI AND MODI JI MY FAVIRATE LEADER <BR><br><br>
+		NOW I AM A VERY APPPY TODAY IS YOGI JI WON THE ELECTON<BR><BR><br><br>
+
+
+</body>
+</html>
